@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # firstNodeJSExpress
 
 This project was built with Turbo 360. To learn more, click here: https://www.turbo360.co
@@ -35,3 +36,7 @@ To build for production, run build:
 $ npm run build
 ```
 
+=======
+# rest-api-nodejs
+First project using NodeJS
+>>>>>>> 8d38ea69ec7cedac6187bab98f1f1f3a05fdacdb
